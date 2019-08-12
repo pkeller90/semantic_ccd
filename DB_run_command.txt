@@ -1,0 +1,1 @@
+java -cp h2-*.jar org.h2.tools.Server -baseDir <path_to_bceval>/BigCloneEval/bigclonebenchdb -ifExists
